@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\bin\Debug\net6.0\functions-with-parametars.exe
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\bin\Debug\net6.0\functions-with-parametars.deps.json
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\bin\Debug\net6.0\functions-with-parametars.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\bin\Debug\net6.0\functions-with-parametars.dll
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\bin\Debug\net6.0\functions-with-parametars.pdb
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\functions-with-parametars.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\functions-with-parametars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\functions-with-parametars.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\functions-with-parametars.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\functions-with-parametars.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\functions-with-parametars.dll
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\refint\functions-with-parametars.dll
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\functions-with-parametars.pdb
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\functions-with-parametars.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\functions-with-parametars\functions-with-parametars\obj\Debug\net6.0\ref\functions-with-parametars.dll
